@@ -1,9 +1,426 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "password": "123asd",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "password": "123asd",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "password": "123asd",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "password": "123asd",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "password": "123asd",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Leopoldo_Corkery",
+      "email": "Karley_Dach@jasper.info",
+      "password": "123asd",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "1-477-935-8478 x6430",
+      "website": "ola.org",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Elwyn.Skiles",
+      "email": "Telly.Hoeger@billy.biz",
+      "password": "123asd",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "210.067.6132",
+      "website": "elvis.io",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Maxime_Nienow",
+      "email": "Sherwood@rosamond.me",
+      "password": "123asd",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "586.493.6943 x140",
+      "website": "jacynthe.com",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Delphine",
+      "email": "Chaim_McDermott@dana.io",
+      "password": "123asd",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109",
+        "geo": {
+          "lat": "24.6463",
+          "lng": "-168.8889"
+        }
+      },
+      "phone": "(775)976-6794 x41206",
+      "website": "conrad.com",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@karina.biz",
+      "password": "123asd",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "024-648-3804",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    }
+  ],
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Exploring the Beauty of Nature",
+      "body": "Nature offers us a multitude of wonders, from towering mountains to lush green forests. It is a source of serenity and inspiration. Whether it’s the calmness of a lake at dawn or the vibrant colors of a sunset, nature has a unique way of connecting us to ourselves and the world around us. This article explores the beauty found in various landscapes and ecosystems, urging readers to take a moment to appreciate and protect these precious places.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?nature",
+      "createdAt": "2023-11-01T10:30:00Z",
+      "category": "Travel"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "Healthy Eating: Tips for a Balanced Diet",
+      "body": "Eating healthy is essential for maintaining both physical and mental well-being. A balanced diet rich in nutrients helps our bodies function optimally. This guide covers various foods and meal plans that are easy to follow and provide the necessary vitamins and minerals to keep you energized throughout the day. From breakfast to dinner, find out how to include proteins, vegetables, and grains in a way that satisfies cravings without compromising health.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?food",
+      "createdAt": "2023-11-02T14:15:00Z",
+      "category": "Health"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "title": "The Rise of Artificial Intelligence",
+      "body": "Artificial Intelligence (AI) is rapidly changing the landscape of technology and daily life. From self-driving cars to personalized recommendations on streaming services, AI is becoming an integral part of our society. This article delves into how AI systems work, their applications, and potential future developments. We’ll also address ethical concerns surrounding AI and the importance of establishing guidelines to prevent misuse as the technology continues to evolve.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?technology",
+      "createdAt": "2023-11-03T09:00:00Z",
+      "category": "Technology"
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "title": "Understanding Personal Finance for Beginners",
+      "body": "Managing personal finances is a critical skill that everyone should learn. This beginner's guide walks you through the basics of budgeting, saving, and investing. Learn how to set financial goals, track expenses, and make informed decisions about loans, credit cards, and savings plans. Financial literacy can significantly improve your quality of life, and this article aims to provide you with the foundational knowledge needed to start on the right track.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?finance",
+      "createdAt": "2023-11-04T17:00:00Z",
+      "category": "Finance"
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "title": "Mastering Time Management",
+      "body": "Effective time management is key to productivity. This article provides practical tips for organizing your day, setting priorities, and eliminating distractions. Learn techniques such as the Pomodoro method and the Eisenhower Matrix to better manage tasks and deadlines. With these tools, you can maximize your time, reduce stress, and achieve your goals efficiently.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?productivity",
+      "createdAt": "2023-11-05T08:45:00Z",
+      "category": "Productivity"
+    },
+    {
+      "userId": 6,
+      "id": 6,
+      "title": "The Basics of Photography: Tips for Beginners",
+      "body": "Photography is an art form that captures the essence of a moment. For beginners, understanding basic photography principles like lighting, composition, and camera settings is essential. This article covers tips and tricks to help you get started on your photography journey, including how to choose the right gear and the techniques needed to capture stunning images, whether you're shooting landscapes or portraits.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?photography",
+      "createdAt": "2023-11-06T12:00:00Z",
+      "category": "Photography"
+    },
+    {
+      "userId": 7,
+      "id": 7,
+      "title": "A Guide to Sustainable Living",
+      "body": "Living sustainably is not only beneficial for the planet but also for personal well-being. This guide explores practical ways to incorporate eco-friendly practices into daily life, such as reducing waste, conserving energy, and choosing sustainable products. Small changes, like recycling and reusing items, can collectively make a big impact. Discover how to lead a greener lifestyle that helps protect our environment for future generations.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?sustainable",
+      "createdAt": "2023-11-07T09:30:00Z",
+      "category": "Environment"
+    },
+    {
+      "userId": 8,
+      "id": 8,
+      "title": "How to Start a Small Business",
+      "body": "Starting a small business can be both exciting and challenging. This article walks you through the steps of creating a business plan, finding funding, and building a customer base. From identifying a target market to understanding business regulations, we provide insights to help you turn your business idea into a reality. Learn tips for branding, marketing, and managing finances that are crucial for small business success.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?business",
+      "createdAt": "2023-11-08T15:20:00Z",
+      "category": "Business"
+    },
+    {
+      "userId": 9,
+      "id": 9,
+      "title": "A Deep Dive into Machine Learning",
+      "body": "Machine Learning (ML) is a subset of AI that enables systems to learn from data. This article provides an introduction to ML concepts, types of algorithms, and their real-world applications. From recommendation systems to image recognition, ML is transforming industries. We explore how ML works and discuss its potential future impact on various fields, highlighting key developments and challenges.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?machinelearning",
+      "createdAt": "2023-11-09T10:10:00Z",
+      "category": "AI"
+    },
+    {
+      "userId": 10,
+      "id": 10,
+      "title": "The Importance of Mental Health Awareness",
+      "body": "Mental health is an essential part of our overall well-being. Raising awareness about mental health can reduce stigma and encourage people to seek help. This article discusses common mental health issues, signs to look out for, and tips on maintaining good mental health. Emphasizing the importance of open conversations, support systems, and professional help, we aim to foster a supportive environment for those facing mental health challenges.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?mentalhealth",
+      "createdAt": "2023-11-10T13:45:00Z",
+      "category": "Health"
+    },
+    {
+      "userId": 11,
+      "id": 11,
+      "title": "How to Build Resilience in Challenging Times",
+      "body": "Resilience is the ability to adapt and thrive despite challenges. This article explores practical steps to build resilience, such as setting realistic goals, staying connected with loved ones, and practicing self-care. Life throws unexpected situations our way, but with resilience, we can face them with strength and courage. Tips include adopting a positive mindset and finding purpose to maintain motivation through tough times.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?resilience",
+      "createdAt": "2023-11-11T08:00:00Z",
+      "category": "Personal Development"
+    },
+    {
+      "userId": 12,
+      "id": 12,
+      "title": "Traveling on a Budget: Tips and Tricks",
+      "body": "Traveling doesn’t have to be expensive. This guide offers tips for budget travel, including how to find affordable accommodations, use public transportation, and discover free activities. With smart planning, you can explore new destinations without breaking the bank. Learn how to stretch your travel budget and make the most of your adventures without sacrificing experiences.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?budget-travel",
+      "createdAt": "2023-11-12T12:30:00Z",
+      "category": "Travel"
+    },
+    {
+      "userId": 13,
+      "id": 13,
+      "title": "The Benefits of Regular Exercise",
+      "body": "Regular exercise offers numerous health benefits, from improving cardiovascular health to enhancing mental well-being. This article explains the importance of incorporating physical activity into your daily routine and provides tips on how to stay motivated. Whether it’s a brisk walk, yoga, or a full workout session, exercise can boost energy levels, reduce stress, and promote better sleep.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?exercise",
+      "createdAt": "2023-11-13T07:15:00Z",
+      "category": "Health"
+    },
+    {
+      "userId": 14,
+      "id": 14,
+      "title": "Learning a New Language: Where to Start",
+      "body": "Learning a new language can open up new cultural experiences and opportunities. This article provides a beginner's guide to language learning, covering essential resources, tools, and practices to help you get started. Discover how to set achievable goals, find language partners, and integrate the language into your daily life for faster learning.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?language",
+      "createdAt": "2023-11-14T09:45:00Z",
+      "category": "Education"
+    },
+    {
+      "userId": 15,
+      "id": 15,
+      "title": "The Power of Positive Thinking",
+      "body": "Positive thinking can have a profound impact on mental and physical health. This article explores how a positive mindset can improve mood, increase motivation, and even boost immune function. Learn practical tips for fostering positivity in your life, including practicing gratitude, setting small goals, and surrounding yourself with supportive people.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?positivity",
+      "createdAt": "2023-11-15T10:00:00Z",
+      "category": "Mental Health"
+    },
+    {
+      "userId": 16,
+      "id": 16,
+      "title": "Eco-Friendly Home Improvements",
+      "body": "Home improvements can be both stylish and eco-friendly. This guide offers tips for making your home more sustainable, such as installing energy-efficient appliances, using eco-friendly materials, and optimizing insulation. With these improvements, you can reduce your carbon footprint and save on utility bills while enjoying a more sustainable lifestyle.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?eco-home",
+      "createdAt": "2023-11-16T16:30:00Z",
+      "category": "Environment"
+    },
+    {
+      "userId": 17,
+      "id": 17,
+      "title": "Gardening for Beginners: A Starter Guide",
+      "body": "Gardening is a fulfilling hobby that connects you with nature. This beginner’s guide covers the basics of gardening, from choosing plants to preparing soil and watering. Whether you have a large backyard or a small balcony, gardening can provide relaxation, fresh produce, and a greener home. Tips include choosing the right plants for your space and caring for them throughout the seasons.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?gardening",
+      "createdAt": "2023-11-17T14:00:00Z",
+      "category": "Hobbies"
+    },
+    {
+      "userId": 18,
+      "id": 18,
+      "title": "The Future of Remote Work",
+      "body": "Remote work is becoming increasingly common in today’s workforce. This article examines the benefits and challenges of remote work, as well as its potential future impact on work culture and business. Learn about tools that enhance productivity, tips for maintaining work-life balance, and the skills needed to thrive in a remote work environment.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?remote-work",
+      "createdAt": "2023-11-18T08:30:00Z",
+      "category": "Career"
+    },
+    {
+      "userId": 19,
+      "id": 19,
+      "title": "Building Healthy Relationships",
+      "body": "Healthy relationships are built on trust, respect, and communication. This article explores the key ingredients for building and maintaining meaningful connections with friends, family, and romantic partners. Learn how to communicate effectively, set boundaries, and support each other in ways that strengthen bonds and create a lasting, positive impact.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?relationships",
+      "createdAt": "2023-11-19T11:45:00Z",
+      "category": "Personal Development"
+    },
+    {
+      "userId": 20,
+      "id": 20,
+      "title": "Introduction to Mindfulness and Meditation",
+      "body": "Mindfulness and meditation are practices that promote mental clarity, reduce stress, and improve focus. This article offers an introduction to mindfulness techniques, such as deep breathing and guided meditation. Whether you're new to meditation or looking to deepen your practice, these tips can help you cultivate a calmer, more focused mind.",
+      "imgUrl": "https://source.unsplash.com/random/400x300?mindfulness",
+      "createdAt": "2023-11-20T13:20:00Z",
+      "category": "Wellness"
+    }
+  ]
 }
